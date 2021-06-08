@@ -1,0 +1,5 @@
+aiogram
+aiosqlite
+pymorphy2
+pdf2image
+aiofiles
